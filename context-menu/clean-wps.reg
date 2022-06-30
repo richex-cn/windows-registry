@@ -23,6 +23,8 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\knewdocshellext]
 [-HKEY_CLASSES_ROOT\CLSID\{C47A7F16-0572-495A-BB96-89A825661722}]
 
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\QingNseContextMenu]
+
 # 新建菜单部分
 [-HKEY_CLASSES_ROOT\.ppt\WPP.PPT.6]
 [-HKEY_CLASSES_ROOT\.doc\WPS.Doc.6]
