@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\        KingsoftOfficePDF.ContextMenu]
+[-HKEY_CLASSES_ROOT\CLSID\{1ECDA7BF-4DFA-41D8-9380-1A27B26CFC41}]
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\knewdocshellext]
+[-HKEY_CLASSES_ROOT\CLSID\{C47A7F16-0572-495A-BB96-89A825661722}]
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\kwpsshellext]
+[-HKEY_CLASSES_ROOT\CLSID\{AF1D7D2F-6AE8-4BAA-ABFA-738201F4871C}]
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\qingshellext]
+[-HKEY_CLASSES_ROOT\CLSID\{AA147FFB-0B1F-4BB1-9B1E-8D062B35C145}]
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\QingNseContextMenu]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\qingshellext]
+[-HKEY_CLASSES_ROOT\CLSID\{67F4D210-BFC2-4ADD-9A2A-C9B9E1F42C4F}]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\QingNseContextMenu]
+[-HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{AA147FFB-0B1F-4BB1-9B1E-8D062B35C145}]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\knewdocshellext]
+[-HKEY_CLASSES_ROOT\CLSID\{C47A7F16-0572-495A-BB96-89A825661722}]
+
+# 新建菜单部分
+[-HKEY_CLASSES_ROOT\.ppt\WPP.PPT.6]
+[-HKEY_CLASSES_ROOT\.doc\WPS.Doc.6]
+[-HKEY_CLASSES_ROOT\.xls\ET.Xls.6]

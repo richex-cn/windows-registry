@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\QQShellExt]
+[-HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\QQShellExt]
+[-HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\QQShellExt]
+[-HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\QQShellExt]
+[-HKEY_CLASSES_ROOT\CLSID\{53D2405C-48AB-4C8A-8F59-CE0610F13BBC}]
+[-HKEY_CLASSES_ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{53D2405C-48AB-4C8A-8F59-CE0610F13BBC}]
+[-HKEY_CLASSES_ROOT\QQShellExt.QQShellExtension.1\CLSID]
+[-HKEY_CLASSES_ROOT\QQShellExt.QQShellExtension\CLSID]
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{53D2405C-48AB-4C8A-8F59-CE0610F13BBC}]
