@@ -19,9 +19,10 @@
 
 以下是目录下对应的文件说明：
 
-| FILENAME              | REMARK                               |
-| :-------------------- | :----------------------------------- |
-| clean-kuwo.reg        | 酷我音乐的右键菜单                   |
-| clean-mail-master.reg | 通过网易邮箱大师发送                 |
-| clean-qq.reg          | QQ 右键菜单（发送给好友等）          |
-| clean-wps.reg         | WPS 右键菜单（上传到“WPS 云文档”等） |
+| FILENAME                 | REMARK                               |
+| :----------------------- | :----------------------------------- |
+| clean-kuwo.reg           | 酷我音乐的右键菜单                   |
+| clean-baidu-net-disk.reg | 上传到百度网盘                       |
+| clean-mail-master.reg    | 通过网易邮箱大师发送                 |
+| clean-qq.reg             | QQ 右键菜单（发送给好友等）          |
+| clean-wps.reg            | WPS 右键菜单（上传到“WPS 云文档”等） |

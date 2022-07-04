@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+; 文件 - 上传到百度网盘
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\YunShellExt]
+
+; 目录 - 上传到百度网盘
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\YunShellExt]
+
+; 快捷方式 - 上传到百度网盘
+[-HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\YunShellExt]
+
+[-HKEY_CLASSES_ROOT\YunShellExt.YunShellExtContextMenu]
+[-HKEY_CLASSES_ROOT\YunShellExt.YunShellExtContextMenu.1]
+[-HKEY_CLASSES_ROOT\CLSID\{6D85624F-305A-491d-8848-C1927AA0D790}]
+[-HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{6D85624F-305A-491d-8848-C1927AA0D790}]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Classes\CLSID\{6D85624F-305A-491d-8848-C1927AA0D790}]
