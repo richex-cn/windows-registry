@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.avif]
+@="ChromeAVIF"
+
+[HKEY_CLASSES_ROOT\ChromeAVIF]
+@="Chrome HTML Document"
+"AppUserModelId"="Chrome"
+
+[HKEY_CLASSES_ROOT\ChromeAVIF\Application]
+"AppUserModelId"="Chrome"
+"ApplicationIcon"="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe,0"
+"ApplicationName"="Google Chrome"
+"ApplicationDescription"="查看 AVIF"
+
+[HKEY_CLASSES_ROOT\ChromeAVIF\DefaultIcon]
+@="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe,0"
+
+[HKEY_CLASSES_ROOT\ChromeAVIF\shell]
+
+[HKEY_CLASSES_ROOT\ChromeAVIF\shell\open]
+
+[HKEY_CLASSES_ROOT\ChromeAVIF\shell\open\command]
+@="\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\" --single-argument %1"
+
