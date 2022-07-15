@@ -26,3 +26,12 @@
 | clean-mail-master.reg    | 通过网易邮箱大师发送                 |
 | clean-qq.reg             | QQ 右键菜单（发送给好友等）          |
 | clean-wps.reg            | WPS 右键菜单（上传到“WPS 云文档”等） |
+| windows11-get-the-default-context-menu-back.cmd     | 恢复默认的 Windows 11 右键菜单                            |
+| windows11-get-the-default-context-menu-back.reg     | 恢复默认的 Windows 11 右键菜单                            |
+| windows11-restore-full-right-click-context-menu.cmd | 在 Windows 11 中恢复完整的右键菜单显示（类似 Windows 10） |
+| windows11-restore-full-right-click-context-menu.reg | 在 Windows 11 中恢复完整的右键菜单显示（类似 Windows 10） |
+
+## References
+
+- [Windows 11 Classic Context Menu v1.1](https://www.sordum.org/14479/windows-11-classic-context-menu-v1-1/)
+
