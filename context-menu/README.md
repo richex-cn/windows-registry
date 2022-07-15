@@ -1,5 +1,7 @@
 # Context Menu Registry
 
+[TOC]
+
 右键菜单相关注册表。
 
 ## 右键菜单清理
@@ -19,18 +21,29 @@
 
 以下是目录下对应的文件说明：
 
+| FILENAME                 | REMARK                               |
+| :----------------------- | :----------------------------------- |
+| clean-kuwo.reg           | 酷我音乐的右键菜单                   |
+| clean-baidu-net-disk.reg | 上传到百度网盘                       |
+| clean-mail-master.reg    | 通过网易邮箱大师发送                 |
+| clean-qq.reg             | QQ 右键菜单（发送给好友等）          |
+| clean-wps.reg            | WPS 右键菜单（上传到“WPS 云文档”等） |
+
+## Windows 11 右键菜单
+
+大部分人并不习惯于当前 Windows 11 新设计的右键菜单，为了设计牺牲了效率是不值得的。这里不多赘述这饱受诟病新版右键菜单，网上实在太多了。
+
+在这里会提供一些注册表和命令行，它们可以帮助你在 Windows 11 中将注册表切换到旧的 Windows 10 版本，或者恢复到 Windows 11 的版本。
+
+![](../assets/imgs/windows11_new_and_old_context_menu.jpg)
+
 | FILENAME                                            | REMARK                                                    |
 | :-------------------------------------------------- | :-------------------------------------------------------- |
-| clean-kuwo.reg                                      | 酷我音乐的右键菜单                                        |
-| clean-baidu-net-disk.reg                            | 上传到百度网盘                                            |
-| clean-mail-master.reg                               | 通过网易邮箱大师发送                                      |
-| clean-qq.reg                                        | QQ 右键菜单（发送给好友等）                               |
-| clean-wps.reg                                       | WPS 右键菜单（上传到“WPS 云文档”等）                      |
 | windows11-get-the-default-context-menu-back.cmd     | 恢复默认的 Windows 11 右键菜单                            |
 | windows11-get-the-default-context-menu-back.reg     | 恢复默认的 Windows 11 右键菜单                            |
 | windows11-restore-full-right-click-context-menu.cmd | 在 Windows 11 中恢复完整的右键菜单显示（类似 Windows 10） |
 | windows11-restore-full-right-click-context-menu.reg | 在 Windows 11 中恢复完整的右键菜单显示（类似 Windows 10） |
 
-## References
+### References
 
 - [Windows 11 Classic Context Menu v1.1](https://www.sordum.org/14479/windows-11-classic-context-menu-v1-1/)
