@@ -33,7 +33,7 @@
 
 大部分人并不习惯于当前 Windows 11 新设计的右键菜单，为了设计牺牲了效率是不值得的。这里不多赘述这饱受诟病新版右键菜单，网上实在太多了。
 
-在这里会提供一些注册表和命令行，它们可以帮助你在 Windows 11 中将注册表切换到旧的 Windows 10 版本，或者恢复到 Windows 11 的版本。
+在这里会提供一些注册表和命令行，它们可以帮助你在 Windows 11 中将右键菜单切换到旧 Windows 10 版本，或者恢复到 Windows 11 的版本。
 
 ![](../assets/imgs/windows11_new_and_old_context_menu.jpg)
 
