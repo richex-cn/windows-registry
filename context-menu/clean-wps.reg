@@ -29,3 +29,6 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\.ppt\WPP.PPT.6]
 [-HKEY_CLASSES_ROOT\.doc\WPS.Doc.6]
 [-HKEY_CLASSES_ROOT\.xls\ET.Xls.6]
+
+; 目录 - 自动同步文件夹到“WPS云文档”
+[-HKEY_CLASSES_ROOT\Directory\ShellEx\ContextMenuHandlers\QingNseContextMenu]
